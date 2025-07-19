@@ -95,6 +95,15 @@ C++ uses the following standard mechanisms for user interaction:
 - Input/output handling is data-type sensitive and must match the declared variable type.
 - This foundational knowledge is essential before moving into more advanced topics like arrays, structures, and classes.
 
+Output:-
+
+Enter any integer:88
+
+Integer = 88 and size is 4 bytes
+
+Enter any number with decimal:
+
+
 ---
 
 ## Conclusion
