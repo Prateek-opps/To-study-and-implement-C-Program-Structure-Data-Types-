@@ -1,3 +1,6 @@
+Name:Prateek Sinha
+PRN: 24070123077
+ENTC A3
 # C++ Program: Understanding Data Types and Their Sizes
 
 ## Overview
